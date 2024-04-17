@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #0f172a;
+    color: #94a3b8;
+    font-family: "Inter", sans-serif;
+}
+
+@font-face {
+    font-family: "Inter", sans-serif;
+    src: url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+}
