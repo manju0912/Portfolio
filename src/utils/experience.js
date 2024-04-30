@@ -8,7 +8,7 @@ const experience = [
             'Developed websites from scratch using WordPress CMS',
             'Provided academic support to 10th standard students through tutoring.'
         ],
-        date: '2022 - Present',
+        date: '2023 - Present',
         skills: ['WordPress', 'HTML', 'CSS', 'Boostrap', 'Responsive Design']
     },
     {

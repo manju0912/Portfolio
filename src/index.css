@@ -12,3 +12,14 @@ body{
     font-family: "Inter", sans-serif;
     src: url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 }
+
+nav ul .active{
+    color: rgb(226, 232, 240);
+}
+nav ul .active::before{
+    content: "";
+    width: 64px;
+    height: 2px;
+    background-color: rgb(226, 232, 240);
+    display: block;
+}

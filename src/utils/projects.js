@@ -8,13 +8,13 @@ const projects = [
         id: '1',
         title: 'NetflixGPT',
         description: [
-            'Architecting a movie recommendation app featuring GenAI API integration for intelligent suggestions, utilizing Redux Toolkit and React Hooks for streamlined state management and dynamic user interaction.',
+            'Engineered a movie recommendation app featuring Gemini API integration for intelligent suggestions, utilizing Redux Toolkit and React Hooks for streamlined state management and dynamic user interaction.',
             'Leveraging TMDB API and Google Firebase to seamlessly fetch and manage movie data, ensuring real-time updates and scalability',
             'Designing a sleek, and responsive UI with Tailwind CSS, enhancing user engagement and satisfaction. Setting NetflixGPT apart as a visually appealing and intuitive platform.'
         ],
-        skills: ['React JS', 'Tailwind CSS', 'Redux Toolkit', 'Firebase', 'GenAI API'],
+        skills: ['React JS', 'Tailwind CSS', 'Redux Toolkit', 'Firebase', 'Gemini API'],
         image: netflixGPTImage,
-        link: ''
+        link: 'https://netflix-gpt-hazel-beta.vercel.app/'
     },
     {
         id: '2',
@@ -26,7 +26,7 @@ const projects = [
         ],
         skills: ['React JS', 'Tailwind CSS', 'Responsive Web Design'],
         image: myPortfolioImage,
-        link: ''
+        link: '#'
     },
     {
         id: '3',
@@ -37,7 +37,7 @@ const projects = [
         ],
         skills: ['WordPress', 'Responsive Web Design'],
         image: buagStoreImage,
-        link: 'https://buagstore.com/'
+        link: 'https://buagstore.com'
     },
     {
         id: '4',
@@ -48,7 +48,7 @@ const projects = [
         ],
         skills: ['WordPress', 'Responsive Web Design'],
         image: travelWebsiteImage,
-        link: 'https://parvatvalleyadventure.com/'
+        link: 'https://parvatvalleyadventure.com'
     }
 ]
 
