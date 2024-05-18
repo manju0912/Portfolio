@@ -9,8 +9,8 @@ const projects = [
         title: 'NetflixGPT',
         description: [
             'Engineered a movie recommendation app featuring Gemini API integration for intelligent suggestions, utilizing Redux Toolkit and React Hooks for streamlined state management and dynamic user interaction.',
-            'Leveraging TMDB API and Google Firebase to seamlessly fetch and manage movie data, ensuring real-time updates and scalability',
-            'Designing a sleek, and responsive UI with Tailwind CSS, enhancing user engagement and satisfaction. Setting NetflixGPT apart as a visually appealing and intuitive platform.'
+            'Leveraged TMDB API and Google Firebase to seamlessly fetch and manage movie data, ensuring real-time updates and scalability',
+            'Designed a sleek, and responsive UI with Tailwind CSS, enhancing user engagement and satisfaction. Setting NetflixGPT apart as a visually appealing and intuitive platform.'
         ],
         skills: ['React JS', 'Tailwind CSS', 'Redux Toolkit', 'Firebase', 'Gemini API'],
         image: netflixGPTImage,

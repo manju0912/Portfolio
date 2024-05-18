@@ -65,7 +65,7 @@ const Header = () => {
         </a>
       </ul>
       <div className="flex gap-4">
-        <a href="https://drive.google.com/file/d/1MrEjeNnjSJkrctiM6F86ZCJ8snm1y5P8/view?usp=sharing" target="_blank">
+        <a href="https://drive.google.com/file/d/1wpVTH-RttMYv_vAPZatks2g-siRUCnqQ/view?usp=sharing" target="_blank">
         <button className="flex items-center justify-between gap-x-2 mt-6 px-4 py-2 border border-1 border-slate-500 w-max rounded-md font-medium transition-all hover:text-slate-200 hover:border-slate-200">Résumé <span><GoArrowUpRight /></span></button>
         </a>
         <a href="#contact">
