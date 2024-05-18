@@ -4,6 +4,8 @@
 ### Overview
 This is a portfolio website project built using React JS and Tailwind CSS. It showcases my skills, projects, experiences, and contact information. The project is bootstrapped with [Vite](https://vitejs.dev/) for a fast and efficient development workflow.
 
+#### Live Link: [Click Here](https://manju-gurung.vercel.app/)
+
 ### Features
 
 - **Responsive Design:** The website is designed to be fully responsive and optimized for various devices and screen sizes.
