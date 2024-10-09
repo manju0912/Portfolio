@@ -19,6 +19,7 @@ const Skills = () => {
           <li className="border border-1 border-slate-600 w-max px-3 py-1 rounded-full text-sm tracking-wide">WordPress</li>
           <li className="border border-1 border-slate-600 w-max px-3 py-1 rounded-full text-sm tracking-wide">Shopify</li>
           <li className="border border-1 border-indigo-700 w-max px-3 py-1 rounded-full text-sm tracking-wide">Figma</li>
+          <li className="border border-1 border-yellow-700 w-max px-3 py-1 rounded-full text-sm tracking-wide">Webflow</li>
         </ul>
       </div>
     </div>
