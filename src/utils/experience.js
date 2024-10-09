@@ -1,6 +1,16 @@
 
 const experience = [
     {
+        id: '0',
+        designation: 'Jr. Webflow Developer',
+        description: [
+            'Collaborating with design and content teams to transform Figma/Adobe XD prototypes into dynamic, responsive Webflow websites.',
+            'Implementing CMS structures and custom interactions within Webflow to deliver seamless user experiences across multi-device platforms.',
+        ],
+        date: '2024 - Present',
+        skills: ['Webflow', 'CSS', 'JavaScript', 'Responsive Design']
+    },
+    {
         id: '1',
         designation: 'Freelancer',
         description: [
@@ -8,7 +18,7 @@ const experience = [
             'Developed websites from scratch using WordPress CMS',
             'Provided academic support to 10th standard students through tutoring.'
         ],
-        date: '2023 - Present',
+        date: '2023',
         skills: ['WordPress', 'HTML', 'CSS', 'Boostrap', 'Responsive Design']
     },
     {
