@@ -6,9 +6,7 @@ const About = () => {
         <h2 className="font-bold uppercase text-slate-200 tracking-widest">About</h2>
       </div>
       <div className="lg:mt-8">
-        <p className="mb-4">Hi, I'm Manju 👋
-          I'm a Webflow Developer based in Dehradun, India, currently building high-performance websites at Lil Big Things, a remote-first no-code agency.
-          My journey into web development wasn't linear — I've managed ecommerce operations, run production teams, and taught students along the way. Each step gave me something most developers don't have: a real sense of how businesses work, and what a website actually needs to do.</p>
+        <p className="mb-4">Hi, I'm Manju 👋 I'm a Webflow Developer based in Dehradun, India, currently building high-performance websites at Lil Big Things, a remote-first no-code agency. My journey into web development wasn't linear — I've managed ecommerce operations, run production teams, and taught students along the way. Each step gave me something most developers don't have: a real sense of how businesses work, and what a website actually needs to do.</p>
         <p className="mb-4">Today, I specialize in Webflow — building everything from structured site foundations to custom JavaScript-powered interactions. I also work with WordPress, GSAP animations, and React when the project calls for it.</p>
         <p className="mb-4">I believe great websites are built on clarity — clear structure, clear purpose, and clean code. If that's what you're looking for, I'd love to connect.</p>
       </div>
