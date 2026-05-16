@@ -6,9 +6,24 @@ const About = () => {
         <h2 className="font-bold uppercase text-slate-200 tracking-widest">About</h2>
       </div>
       <div className="lg:mt-8">
-        <p className="mb-4">Hi, I'm Manju 👋 I'm a Webflow Developer based in Dehradun, India, currently building high-performance websites at Lil Big Things, a remote-first no-code agency. My journey into web development wasn't linear — I've managed ecommerce operations, run production teams, and taught students along the way. Each step gave me something most developers don't have: a real sense of how businesses work, and what a website actually needs to do.</p>
-        <p className="mb-4">Today, I specialize in Webflow — building everything from structured site foundations to custom JavaScript-powered interactions. I also work with WordPress, GSAP animations, and React when the project calls for it.</p>
-        <p className="mb-4">I believe great websites are built on clarity — clear structure, clear purpose, and clean code. If that's what you're looking for, I'd love to connect.</p>
+        <p className="mb-4">
+          Hi, I’m Manju 👋 — a product-focused developer who builds more than just websites. I design and develop scalable digital products that combine clean interfaces, solid logic, and smart use of data to solve real business problems.
+        </p>
+        <p className="mb-4">
+          I started my journey in Webflow, building high-performance, conversion-focused websites at Lil Big Things and through freelance projects. But over time, I realized great products go beyond visuals — they need structure, performance, and systems working together behind the scenes.
+        </p>
+        <p className="mb-4">
+          Today, I work across frontend, logic, and data — using JavaScript, React, and modern tools to build fast, scalable experiences. I also explore Python, SQL, and automation to create smarter, data-driven workflows and experiment with ideas at the intersection of tech, finance, and AI.
+        </p>
+        <p className="mb-4">
+          What makes me different is how I think — not just in pages or components, but in systems. Whether it’s a marketing website, a dynamic CMS setup, or a product idea, I focus on clarity, performance, and outcomes that actually move the needle.
+        </p>
+        <p className="mb-4">
+          My background in ecommerce and operations gives me a practical edge — I understand how businesses work, what users need, and how technology should support both.
+        </p>
+        <p className="mb-4">
+          If you’re looking for someone who can not only build, but also think through your product, simplify complexity, and deliver something that performs — we should talk.
+        </p>
       </div>
     </div>
   )
