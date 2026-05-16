@@ -2,13 +2,14 @@
 const experience = [
     {
         id: '0',
-        designation: 'Jr. Webflow Developer',
+        designation: 'Webflow Developer',
         description: [
-            'Collaborating with design and content teams to transform Figma/Adobe XD prototypes into dynamic, responsive Webflow websites.',
-            'Implementing CMS structures and custom interactions within Webflow to deliver seamless user experiences across multi-device platforms.',
+            'Building and launching Webflow sites with clean, maintainable Client-First structure.',
+            "Creating custom JavaScript solutions and utility libraries to extend Webflow's capabilities.",
+            'Integrating search, CMS filtering, and dynamic content workflows for client sites.',
         ],
         date: '2024 - Present',
-        skills: ['Webflow', 'CSS', 'JavaScript', 'Responsive Design']
+        skills: ['Webflow', 'CSS', 'JavaScript', 'Responsive Design', 'GSAP', ' Client-First Framework', 'Performance Optimization']
     },
     {
         id: '1',
