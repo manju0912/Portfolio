@@ -10,7 +10,7 @@ const Skills = () => {
           <li className="border border-1 border-teal-700 w-max px-3 py-1 rounded-full text-sm tracking-wide">HTML</li>
           <li className="border border-1 border-purple-800 w-max px-3 py-1 rounded-full text-sm tracking-wide">CSS</li>
           <li className="border border-1 border-slate-600 w-max px-3 py-1 rounded-full text-sm tracking-wide">JavaScript</li>
-          <li className="border border-1 border-teal-700 w-max px-3 py-1 rounded-full text-sm tracking-wide">React JS</li>
+          <li className="border border-1 border-indigo-700 w-max px-3 py-1 rounded-full text-sm tracking-wide">React JS</li>
           <li className="border border-1 border-yellow-700 w-max px-3 py-1 rounded-full text-sm tracking-wide">Redux Toolkit</li>
           <li className="border border-1 border-teal-700 w-max px-3 py-1 rounded-full text-sm tracking-wide">Tailwind CSS</li>
           <li className="border border-1 border-pink-800 w-max px-3 py-1 rounded-full text-sm tracking-wide">Bootstrap</li>
