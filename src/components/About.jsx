@@ -6,9 +6,9 @@ const About = () => {
         <h2 className="font-bold uppercase text-slate-200 tracking-widest">About</h2>
       </div>
       <div className="lg:mt-8">
-        <p className="mb-4">In my quest for a tech career, life threw me a curveball, prompting a temporary pause due to familial responsibilities. However, during this time, I delved into diverse endeavors, from managing operations ina manufacturing industry to an <strong>eCommerce Manager</strong> in a start-up to freelancing as a <strong>WordPress Web Developer</strong>. In the last 1.5 years, successfully delivering 8+ WordPress webistes amidst overseeing 15+ projects of the clients showcased my ability to thrive independently.</p>
-        <p className="mb-4">Armed with <strong>HTML/CSS, JavaScript, React JS, Tailwind CSS</strong> skills and more, I'm eager to reignite my passion for tech. My journey, punctuated by exciting projects, reflects unwavering dedication. With a relentless pursuit of excellence, I am poised to make a significant impact in frontend development.</p>
-        <p className="mb-4">As a quick learner with a drive for excellence, I am eager to leverage my skills and dedication to propel your organization forward. With a proven track record of navigating challenges with determination, I am poised to excel in an entry-level role in <strong>frontend development</strong> and am excited about the opportunity to grow alongside your esteemed team.</p>
+        <p className="mb-4">Hi, I'm Manju 👋</br>I'm a Webflow Developer based in Dehradun, India, currently building high-performance websites at Lil Big Things, a remote-first no-code agency.<br>My journey into web development wasn't linear — I've managed ecommerce operations, run production teams, and taught students along the way. Each step gave me something most developers don't have: a real sense of how businesses work, and what a website actually needs to do.</p>
+        <p className="mb-4">Today, I specialize in Webflow — building everything from structured site foundations to custom JavaScript-powered interactions. I also work with WordPress, GSAP animations, and React when the project calls for it.</p>
+        <p className="mb-4">I believe great websites are built on clarity — clear structure, clear purpose, and clean code. If that's what you're looking for, I'd love to connect.</p>
       </div>
     </div>
   )
