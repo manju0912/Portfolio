@@ -24,7 +24,7 @@ const Header = () => {
   }, [])
 
   return (
-    <header className="lg:sticky lg:top-0 lg:flex lg:flex-col lg:max-h-screen lg:w-1/2 lg:justify-between lg:py-[70px]">
+    <header className="lg:sticky lg:top-0 lg:flex lg:flex-col lg:max-h-screen lg:w-1/2 lg:justify-start lg:py-[70px]">
       <div>
         <h2 className="text-lg font-medium sm:text-xl leading-normal">Hi! I am</h2>
         <h1 className="text-4xl font-bold text-slate-200 sm:text-5xl tracking-tight">Manju Gurung</h1>
