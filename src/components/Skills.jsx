@@ -21,6 +21,8 @@ const Skills = () => {
           <li className="border border-1 border-indigo-700 w-max px-3 py-1 rounded-full text-sm tracking-wide">Figma</li>
           <li className="border border-1 border-yellow-700 w-max px-3 py-1 rounded-full text-sm tracking-wide">Webflow</li>
           <li className="border border-1 border-teal-700 w-max px-3 py-1 rounded-full text-sm tracking-wide">GSAP</li>
+          <li className="border border-1 border-purple-800 w-max px-3 py-1 rounded-full text-sm tracking-wide">Python</li>
+          <li className="border border-1 border-indigo-700 w-max px-3 py-1 rounded-full text-sm tracking-wide">SQL</li>
         </ul>
       </div>
     </div>
