@@ -28,7 +28,7 @@ const Header = () => {
       <div>
         <h2 className="text-lg font-medium sm:text-xl leading-normal">Hi! I am</h2>
         <h1 className="text-4xl font-bold text-slate-200 sm:text-5xl tracking-tight">Manju Gurung</h1>
-        <h2 className="text-lg font-medium mt-3 text-slate-200 sm:text-xl">Aspiring Frontend Developer</h2>
+        <h2 className="text-lg font-medium mt-3 text-slate-200 sm:text-xl">Frontend Developer | React.js & Webflow Developer</h2>
         <p className="mt-4 text-base max-w-xs leading-normal">I'm dedicated to crafting visually impeccable, captivating, and user-friendly digital experiences.</p>
         <nav className="lg:block hidden">
           <ul className="w-max mt-10 cursor-pointer">
@@ -60,12 +60,12 @@ const Header = () => {
         <a href="https://www.linkedin.com/in/manjugurung0912/" target="_blank">
           <li className="mr-5 text-2xl shrink-0 transition-all hover:text-slate-200"><FaLinkedin /></li>
         </a>
-        <a href="https://twitter.com/manju0912" target="_blank">
+        {/* <a href="https://twitter.com/manju0912" target="_blank">
           <li className="mr-5 text-2xl shrink-0 transition-all hover:text-slate-200"><FaXTwitter /></li>
-        </a>
+        </a> */}
       </ul>
       <div className="flex gap-4">
-        <a href="https://drive.google.com/file/d/1jnbACLk3twrIT1SBywPKOBWuW87ev93V/view?usp=drive_link" target="_blank">
+        <a href="https://drive.google.com/file/d/1I9OQKXcKlmqIu-y0d1TkEqnlRzNQ0oN2/view?usp=drive_link" target="_blank">
         <button className="flex items-center justify-between gap-x-2 mt-6 px-4 py-2 border border-1 border-slate-500 w-max rounded-md font-medium transition-all hover:text-slate-200 hover:border-slate-200">Résumé <span><GoArrowUpRight /></span></button>
         </a>
         <a href="#contact">
